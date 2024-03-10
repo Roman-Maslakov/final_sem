@@ -3,9 +3,6 @@ import java.io.File;
 public class Tree {
 
     /**
-     * TODO: TODO: Доработать метод print, необходимо распечатывать директории и
-     * файлы
-     * 
      * @param args
      */
     public static void main(String[] args) {
